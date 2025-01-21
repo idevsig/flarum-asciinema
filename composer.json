@@ -1,0 +1,43 @@
+{
+  "name": "idevsig/flarum-asciinema",
+  "description": "Add asciinema to Flarum.",
+  "keywords": [
+    "flarum",
+    "asciinema"
+  ],
+  "type": "flarum-extension",
+  "license": "Apache-2.0",
+  "require": {
+    "flarum/core": "^1.0.0 || ^2.0.0"
+  },
+  "homepage": "https://forum.idev.top",
+  "support": {
+    "issues": "https://github.com/idevsig/flarum-asciinema/issues",
+    "source": "https://github.com/idevsig/flarum-asciinema",
+    "forum": "https://discuss.flarum.org/d/"
+  },  
+  "authors": [
+    {
+      "name": "jetsung",
+      "email": "i@jetsung.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Idevsig\\AsciinemaEmbed\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Asciinema",
+      "icon": {
+        "name": "fas fa-play",
+        "backgroundColor": "#000",
+        "color": "#d40000"
+      }
+    },
+    "flagrow": {
+      "discuss": "https://discuss.flarum.org/d/"
+    }
+  }
+}
