@@ -15,7 +15,7 @@ use s9e\TextFormatter\Configurator;
 
 // data-cols="2"
 // data-rows="2"
-// data-preload="true"
+// data-preload="0"
 
 return [
     (new Extend\Formatter)

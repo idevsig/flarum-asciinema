@@ -14,7 +14,7 @@
   "support": {
     "issues": "https://github.com/idevsig/flarum-asciinema/issues",
     "source": "https://github.com/idevsig/flarum-asciinema",
-    "forum": "https://discuss.flarum.org/d/"
+    "forum": "https://discuss.flarum.org/d/36898"
   },  
   "authors": [
     {
@@ -37,7 +37,7 @@
       }
     },
     "flagrow": {
-      "discuss": "https://discuss.flarum.org/d/"
+      "discuss": "https://discuss.flarum.org/d/36898"
     }
   }
 }
