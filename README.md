@@ -14,6 +14,8 @@ A [Flarum](https://flarum.org/) extension. Add asciinema to Flarum.
 
 ```bbcoce
 [asciinema id=5E5V7BWvQ34LqjqIhF9JIQI8a][/asciinema]
+
+[asciinema id="5E5V7BWvQ34LqjqIhF9JIQI8a" start="2" auto="1" loop="0" speed="1" idle="" poster="npt:1:23" theme="monokai" cols="" rows="" preload="0" ][/asciinema]
 ```
 
 | Option | Default Value | Type | Description |
