@@ -6,9 +6,13 @@ A [Flarum](https://flarum.org/) extension. Add asciinema to Flarum.
 
 ### Usage
 
-- [Document](https://docs.asciinema.org/manual/server/embedding/#inline-player)
+```bbcode
+[asciinema id=5E5V7BWvQ34LqjqIhF9JIQI8a][/asciinema]
+```
 
-[recode id=1][/recode]
+[![](https://asciinema.org/a/5E5V7BWvQ34LqjqIhF9JIQI8a.svg)](https://asciinema.org/a/5E5V7BWvQ34LqjqIhF9JIQI8a)
+
+- [Document](https://docs.asciinema.org/manual/server/embedding/#inline-player)
 
 ### Installation
 

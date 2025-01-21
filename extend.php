@@ -48,8 +48,8 @@ return [
             $attribute->filterChain->append('#choice')->setValues([0, 1]);
             $attribute->defaultValue = 0;
 
-            $attribute = $tag->attributes->add('loop')->setValues([0, 1]);
-            $attribute->filterChain->append('#uint');
+            $attribute = $tag->attributes->add('loop');
+            $attribute->filterChain->append('#choice')->setValues([0, 1]);
             $attribute->defaultValue = 0;
 
             $attribute = $tag->attributes->add('speed');
