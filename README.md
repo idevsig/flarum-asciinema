@@ -6,11 +6,9 @@ A [Flarum](https://flarum.org/) extension. Add asciinema to Flarum.
 
 ### Usage
 
-```bbcode
-[asciinema id=5E5V7BWvQ34LqjqIhF9JIQI8a][/asciinema]
-```
-
 [![](https://asciinema.org/a/5E5V7BWvQ34LqjqIhF9JIQI8a.svg)](https://asciinema.org/a/5E5V7BWvQ34LqjqIhF9JIQI8a)
+
+[**Preview Post**](https://forum.idev.top/d/983/2)
 
 ```bbcoce
 [asciinema id=5E5V7BWvQ34LqjqIhF9JIQI8a][/asciinema]
